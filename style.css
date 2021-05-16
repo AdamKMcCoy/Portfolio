@@ -3,7 +3,7 @@
   }
   
   body {
-    background-color: #f1f1f1;
+    background-color: #800505;
     padding: 20px;
     font-family: Arial;
   }
@@ -44,7 +44,7 @@
   
   /* Content */
   .content {
-    background-color: white;
+    background-color:rgb(6, 1, 75);
     padding: 10px;
   }
   
