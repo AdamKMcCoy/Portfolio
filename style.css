@@ -10,11 +10,11 @@
   h1 {color: rgb(34, 247, 6);
 }
   body {
-    background: #E30000;
-    background: -moz-radial-gradient(center, #E30000 0%, #2D2ECC 50%, #000000 100%);
-    background: -webkit-radial-gradient(center, #E30000 0%, #2D2ECC 50%, #000000 100%);
-    background: radial-gradient(ellipse at center, #E30000 0%, #2D2ECC 50%, #000000 100%);
-    }
+        background: #E30000;
+        background: -moz-linear-gradient(45deg, #E30000 0%, #2D2ECC 50%, #000000 100%);
+        background: -webkit-linear-gradient(45deg, #E30000 0%, #2D2ECC 50%, #000000 100%);
+        background: linear-gradient(45deg, #E30000 0%, #2D2ECC 50%, #000000 100%);
+        }
   
   /* Center website */
   .main {
