@@ -2,17 +2,19 @@
     box-sizing: border-box;
    
   }
-  
+
   body
   h1 {font-style: unset;}
   h1 {font-weight: bolder;}
   h1 {font-family: cursive;}
-  
-  {
-    background-color: #800505;
-    padding: 20px;
-    font-family: Arial;
-  }
+  h1 {color: rgb(34, 247, 6);
+}
+  body {
+    background: #E30000;
+    background: -moz-radial-gradient(center, #E30000 0%, #2D2ECC 50%, #000000 100%);
+    background: -webkit-radial-gradient(center, #E30000 0%, #2D2ECC 50%, #000000 100%);
+    background: radial-gradient(ellipse at center, #E30000 0%, #2D2ECC 50%, #000000 100%);
+    }
   
   /* Center website */
   .main {
@@ -66,4 +68,4 @@
     .column {
       width: 100%;
     }
-  }
+  } 
