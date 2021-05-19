@@ -1,8 +1,14 @@
 * {
     box-sizing: border-box;
+   
   }
   
-  body {
+  body
+  h1 {font-style: unset;}
+  h1 {font-weight: bolder;}
+  h1 {font-family: cursive;}
+  
+  {
     background-color: #800505;
     padding: 20px;
     font-family: Arial;
