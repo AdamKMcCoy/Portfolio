@@ -7,8 +7,15 @@
   h1 {font-style: unset;}
   h1 {font-weight: bolder;}
   h1 {font-family: cursive;}
-  h1 {color: rgb(34, 247, 6);
-}
+  h1 {color: rgb(22, 148, 5);
+} h2  {text-shadow: -3px 2px 1px rgba(22,255,37,0.75);}
+  h3 {
+    color: rgb(255, 12, 12); font-size: 15px; line-height: 15px; padding: 6px; border-radius: 15px; font-family: Georgia, serif; font-weight: normal; text-decoration: none; font-style: normal; font-variant: normal; text-transform: none; background-image: linear-gradient(to right, rgb(28, 110, 164) 0%, rgb(35, 136, 203) 50%, rgb(20, 78, 117) 100%); box-shadow: rgb(0, 0, 0) 5px 5px 15px 5px; border: 2px solid rgb(28, 110, 164); display: inline-block;}
+    .myButton:hover {
+    background: #1C6EA4; }
+    .myButton:active {
+    background: #144E75; }
+    h3 {link}
   body {
         background: #E30000;
         background: -moz-linear-gradient(45deg, #E30000 0%, #2D2ECC 50%, #000000 100%);
