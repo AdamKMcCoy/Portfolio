@@ -9,7 +9,7 @@
   h1 {font-family: cursive;}
   h1 {color: rgb(22, 148, 5);}
   h2 {text-shadow: -3px 2px 1px rgba(22,255,37,0.75);}
-  
+
     
   body {
         background: #E30000;
@@ -56,20 +56,6 @@
     background-color:rgb(6, 1, 75);
     padding: 10px;
   }
-  
-
-  @media screen and (max-width: 900px) {
-    .column {
-      width: 50%;
-    }
-  }
-  
-
-  @media screen and (max-width: 600px) {
-    .column {
-      width: 100%;
-    }
-  } 
   a {color:yellow;}
   a:hover {color:red;}
   a:visited {color:#000000}
